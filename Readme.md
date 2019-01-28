@@ -1,6 +1,7 @@
 ## Generic Mysql Backup App v1.0 : JavaFX
 
-<img src="https://raw.githubusercontent.com/halilozercan/bettervideoplayer/master/screens/fullscreen.png" width="600px" />
+<img src="https://github.com/babafemisorinolu/GenericMysqlBackupApp/blob/master/sample_images/gba1.png?raw=true" width="600px" />
+
 
 ##### Features
 
@@ -27,9 +28,11 @@ The Login Credentials:
 - **Username** admin (case insensitive).
 - **Password** admin (case insensitive).
 
-<img src="https://raw.githubusercontent.com/halilozercan/bettervideoplayer/master/screens/fullscreen.png" width="600px" />
+<img src="https://github.com/babafemisorinolu/GenericMysqlBackupApp/blob/master/sample_images/gba1.png?raw=true" width="600px" />
 
 ##### Dashboard Screen
+
+<img src="https://github.com/babafemisorinolu/GenericMysqlBackupApp/blob/master/sample_images/gba2.png?raw=true" width="600px" />
 
 The Application allows you to connect to the `localhost` and export any of the MySQL database .
 **CLICKing the `Load Database` button** will fetch the database list(by calling the "SHOW DATABASE" MYSQL command) and populate it into the combobox below.
@@ -38,4 +41,10 @@ The Application allows you to connect to the `localhost` and export any of the M
 
 ##### Settings Screen
 
+<img src="https://github.com/babafemisorinolu/GenericMysqlBackupApp/blob/master/sample_images/gba3.png?raw=true" width="600px" />
+
 The Application allows you to connect to the `localhost` and export any of the MySQL database .
+The MysqlDump Path should be specified and the username and password for the database.
+
+<img src="https://github.com/babafemisorinolu/GenericMysqlBackupApp/blob/master/sample_images/gba4.png?raw=true" width="600px" />
+
